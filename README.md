@@ -1,5 +1,5 @@
 This is a copy of [https://github.com/dheid/fontchooser](https://github.com/dheid/fontchooser) which
-is not available at the moment.
+is unavailable at the moment.
 
 ---
 
